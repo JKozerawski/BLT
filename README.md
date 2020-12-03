@@ -1,5 +1,5 @@
 # BLT: Balancing Long-Tailed Datasets with Adversarially-Perturbed Images
-ACCV 2020 [Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Kozerawski_BLT_Balancing_Long-Tailed_Datasets_with_Adversarially-Perturbed_Images_ACCV_2020_paper.pdf) and [Supplemental material](https://openaccess.thecvf.com/content/ACCV2020/supplemental/Kozerawski_BLT_Balancing_Long-Tailed_ACCV_2020_supplemental.pdf)
+ACCV 2020 [Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Kozerawski_BLT_Balancing_Long-Tailed_Datasets_with_Adversarially-Perturbed_Images_ACCV_2020_paper.pdf), [Supplemental material](https://openaccess.thecvf.com/content/ACCV2020/supplemental/Kozerawski_BLT_Balancing_Long-Tailed_ACCV_2020_supplemental.pdf) and [Video](https://youtu.be/stMSOwrJToU)
 Implementation of BLT coming soon.
 
 ### Authors:
@@ -25,4 +25,4 @@ If you use this code for your research, please cite the following paper:
 ```
 
 ## Video
-YouTube: coming soon
+YouTube: https://youtu.be/stMSOwrJToU
